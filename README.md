@@ -13,7 +13,7 @@ For every topic: concept first (with simple analogies) → notes → practical.
 |------|-------|----------------|
 | **Part 1** | Foundations | Containers vs VMs, isolation (namespaces + cgroups), image layers, snapshot model |
 | **Part 2** | Image User → Creator | Docker's 3 players, `docker build`, Dockerfile anatomy, slim vs alpine, layer caching |
-| **Part 3** | (coming soon) | Networking / Compose |
+| **Part 3** | 
 
 ## 🎯 Approach
 - Concept-first, dumb-proof breakdowns
