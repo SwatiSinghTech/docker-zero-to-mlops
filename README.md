@@ -25,4 +25,4 @@ For every topic: concept first (with simple analogies) → notes → practical.
 I'm also documenting this journey on **LinkedIn** — concept by concept.
 [LinkedIn](https://www.linkedin.com/in/swati-singh-devops/)
 
-*Built and maintained by [Swati Singh](https://github.com/SwatiSinghTech) ✨*
+*Built and maintained by (https://github.com/SwatiSinghTech) ✨*
